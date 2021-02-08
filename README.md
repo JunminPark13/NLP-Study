@@ -15,7 +15,7 @@ Week3 : Attention Is All You Need(Transformer), Improving Language Understanding
 - https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 </br>GPT 발제자료 (https://www.notion.so/NLP-study-_-GPT-9552c8987881462ca57321bf574eae37)
 
-Week4 : Deep contextualized word representations(ELMO), : Pre-training of Deep Bidirectional Transformers for Language Understanding(BERT)
+Week4 : Deep contextualized word representations(ELMO), Pre-training of Deep Bidirectional Transformers for Language Understanding(BERT)
 - https://arxiv.org/abs/1802.05365
 - https://arxiv.org/pdf/1810.04805.pdf
 
