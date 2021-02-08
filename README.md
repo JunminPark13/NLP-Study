@@ -16,6 +16,6 @@ Week3 : Attention Is All You Need(Transformer), Improving Language Understanding
 
 Week4 : Deep contextualized word representations(ELMO), : Pre-training of Deep Bidirectional Transformers for Language Understanding(BERT)
 - https://arxiv.org/abs/1802.05365
- https://arxiv.org/pdf/1810.04805.pdf
+- https://arxiv.org/pdf/1810.04805.pdf
 
 Week5 ~ Week6 : 
