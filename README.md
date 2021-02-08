@@ -13,7 +13,7 @@ Week1 ~ Week2 : Coursera - Sequence Models (Andrew Ng)
 Week3 : Attention Is All You Need(Transformer), Improving Language Understanding by Generative Pre-Training(GPT) 논문 리뷰
 - https://arxiv.org/abs/1706.03762
 - https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
-    GPT 발제자료 (https://www.notion.so/NLP-study-_-GPT-9552c8987881462ca57321bf574eae37)
+</br>GPT 발제자료 (https://www.notion.so/NLP-study-_-GPT-9552c8987881462ca57321bf574eae37)
 
 Week4 : Deep contextualized word representations(ELMO), : Pre-training of Deep Bidirectional Transformers for Language Understanding(BERT)
 - https://arxiv.org/abs/1802.05365
