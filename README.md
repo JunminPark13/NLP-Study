@@ -20,3 +20,4 @@ Week4 : Deep contextualized word representations(ELMO), Pre-training of Deep Bid
 - https://arxiv.org/pdf/1810.04805.pdf
 
 Week5 ~ Week6 : 
+- 실습
